@@ -1,5 +1,5 @@
 #Entol.net 
-Build for Startup business website  | Create a website that you are gonna be proud of. Be it Business, Portfolio,invoicing, Agency & much more 
+Useful resources for Startup business website  | Create a website that you are gonna be proud of. Be it Business, Portfolio,invoicing, Agency & much more  
 
 Test Drive : https://entol.net/auth/login
 
