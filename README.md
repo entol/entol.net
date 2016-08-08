@@ -9,6 +9,5 @@ password:11111111
 Note: Resource is still under development and it only runs Invoice for IDR
 
 ![Alt text](https://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/i7TgjVV6vcc)
 
 
