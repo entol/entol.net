@@ -9,6 +9,5 @@ password:11111111
 Note: Resource is still under development and it only runs Invoice for IDR
 
 ![Alt text](https://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
-local:
-email:fudel.07@gmail.com password:entol007
+
 
