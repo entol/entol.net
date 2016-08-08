@@ -1,7 +1,9 @@
-#
-Entol.net | Startup business website template Codeigniter | Create a website that you are gonna be proud of. Be it Business, Portfolio,invoicing, Agency & much more 
+#Entol.net Build for Startup business website  | Create a website that you are gonna be proud of. Be it Business, Portfolio,invoicing, Agency & much more 
 
-Demo : https://entol.net/auth/login
-administrator
+Test Drive : https://entol.net/auth/login
+
 email:xyz@gmail.com
 password:11111111
+
+See Codeigniter tutorial https://entol.net/blog/
+
