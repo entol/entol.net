@@ -6,7 +6,7 @@ Test Drive : https://entol.net/auth/login
 email:xyz@gmail.com
 password:11111111
 
-Note: Resource is still under development and it only runs Invoice for IDR
+Note: Resource is still under development and it only runs Invoice for IDR |codeigniter|AdminLte
 
 ![Alt text](https://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
 
