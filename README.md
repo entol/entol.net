@@ -1,7 +1,7 @@
 #Entol.net 
 Useful resources for Startup business website  | Create a website that you are gonna be proud of. Be it Business, Portfolio,invoicing, Agency & much more  
 
-Test Drive : https://entol.net/auth/login
+Test Drive : http://entol.net/auth/login
 
 email:xyz@gmail.com
 password:11111111
