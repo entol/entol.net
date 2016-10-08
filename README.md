@@ -14,6 +14,6 @@ password:entol007
 Note: Resource is still under development and it only runs IDR Invoice  |codeigniter|AdminLte
 It was almost a complete you just modify it
 
-![Alt text](https://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
+![Alt text](http://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
 
 
