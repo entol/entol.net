@@ -11,7 +11,7 @@ local
 email:fudel.07@gmail.com
 password:entol007
 
-Note: Resource is still under development and it only runs IDR Invoice  |codeigniter|AdminLte
+Note: Resource is still under development |codeigniter|AdminLte
 It was almost a complete you just modify it
 
 ![Alt text](http://entol.net/uploads/2vctys2irfwgcks084.jpg "Dashboard Screenshoot")
